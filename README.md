@@ -1,8 +1,19 @@
-# React + Vite
+# Irin Asesesment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this is the assesment given by Irin which inclued UserInput component which helps in taking input from user i.e name and email and UserList component which displays the input taken by UserInput component. UserList have button to delete or update and the data is being stored in local stoage. While UserInput have submit button to submit data and clear button to clear Input feilds.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use this command to install all the required dependencies.
+
+```bash
+npm i
+```
+
+## Run
+
+Use this command to run the react app
+
+```bash
+npm run dev
+```
